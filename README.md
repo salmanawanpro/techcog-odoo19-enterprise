@@ -47,6 +47,10 @@ Developed by Salman Awan
 
 Experienced in implementing and customizing Odoo solutions across multiple business domains, including:
 
+- Odoo Customization
+- ERP Implementation & Consulting
+- Custom Module Development
+- API Integrations
 - CRM
 - Sales Management
 - Purchase Management
@@ -59,6 +63,5 @@ Experienced in implementing and customizing Odoo solutions across multiple busin
 - Website & eCommerce
 - Helpdesk & Support
 - Business Process Automation
-- API Integrations
-- Custom Module Development
-- ERP Implementation & Consulting
+
+
