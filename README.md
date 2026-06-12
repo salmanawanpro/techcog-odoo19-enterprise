@@ -43,12 +43,22 @@ Rather than modifying Odoo core files directly, custom requirements are implemen
 
 Developed by Salman Awan
 
-**Odoo Developer | ERP Consultant**
+**Odoo Developer | ERP & CRM Consultant**
 
-Areas of expertise:
+Experienced in implementing and customizing Odoo solutions across multiple business domains, including:
 
-- Odoo Customization
-- ERP Implementation
+- CRM
+- Sales Management
+- Purchase Management
+- Inventory & Warehouse Management
+- Accounting & Finance
+- Human Resources (HR)
+- Manufacturing (MRP)
+- Project Management
+- Point of Sale (POS)
+- Website & eCommerce
+- Helpdesk & Support
 - Business Process Automation
 - API Integrations
 - Custom Module Development
+- ERP Implementation & Consulting
